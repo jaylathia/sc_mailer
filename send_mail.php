@@ -7,7 +7,7 @@ ini_set('display_errors', 1);
 
 define('GUSER', ''); // GMail username
 define('GPWD', ''); // GMail password
-define('SMTP_HOST', 'smtp.gmail.com'); // GMail password
+define('SMTP_HOST', 'smtp.gmail.com');
 define('DEBUG', 1);
 define('FROM_EMAIL', 'sc@shrimadrajchandramission.org');
 define('FROM_NAME', 'Sadguru Connects');
